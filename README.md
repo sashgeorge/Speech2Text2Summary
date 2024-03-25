@@ -13,7 +13,7 @@ Setup and Install
    
        $ pip install -r requirements.txt
 
-2.	Update the .env file with the your Azure Speech, Azure Open AI and Text Analyzer values.
+2.	Update the .env file with your Azure Speech, Azure Open AI and Text Analyzer values.
    
 3.	Run the SpeechTranscriptionNSummary.py file. 
 
