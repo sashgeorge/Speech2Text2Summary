@@ -1,0 +1,8 @@
+pyaudio
+wave
+azure-cognitiveservices-speech
+python-dotenv
+openai
+pydash
+tenacity
+azure-ai-textanalytics
