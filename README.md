@@ -5,7 +5,7 @@ This repository has python code sample which will do the following.
 3. Summarize the speech text using Azure Open AI
 4. Do sentiment analysis using Azure Text Analyzer
 
-![image](https://github.com/sashgeorge/Speech2Text2Summary/assets/22481246/632e37fb-675a-4fed-b66e-5733ec22fbdc)
+![image](https://github.com/sashgeorge/Speech2Text2Summary/assets/22481246/d27bb9fc-8d80-44f4-a86f-7ef923f83e3c)
 
  
 Setup and Install
